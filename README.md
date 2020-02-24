@@ -2,7 +2,7 @@
 
 ![Screenshots](example/screenshots.png)
 
-Aplicação web voltada à inscrição de doadores de sangue. O site foi produzido na MaratonaDev da Rocketseat, em fevereiro de 2020. Visa ser uma mostra simples do potencial da união entre as ferramentas HTML, CSS e javascript.
+Uma aplicação web voltada à inscrição de doadores de sangue. O site foi produzido na MaratonaDev da Rocketseat, em fevereiro de 2020. Visa ser uma mostra simples do potencial da união entre as ferramentas HTML, CSS e javascript.
 
 Entre na pasta e instale os módulos necessários do `node` com:
 ```sh
